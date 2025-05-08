@@ -1,0 +1,7 @@
+x = input()
+y = x.upper()
+z = x.lower()
+g = x.capitalize()
+h = x.count()
+print(y)
+print(g)
